@@ -1,11 +1,11 @@
 {
-  "admin": "AzureDiamond",
-  "password": "hunter2",
+  "admin": "hellossr.herokuapp.com/",
+  "password": "hellossr123123",
   "mods": [
   	"add-mod-tripcodes-here"
   ],
-  "host": "0.0.0.0",
-  "port": "6060",
+  "host": "heroku.com",
+  "port": "80",
   "x_forwarded_for": false,
   "salt": "insert-randomly-generated-string-here"
 }
