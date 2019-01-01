@@ -1,0 +1,11 @@
+{
+  "admin": "hackchat123.herokuapp.com/",
+  "password": "hackchat123",
+  "mods": [
+  	"add-mod-tripcodes-here"
+  ],
+  "host": "heroku.com",
+  "port": "80",
+  "x_forwarded_for": false,
+  "salt": "insert-randomly-generated-string-here"
+}
